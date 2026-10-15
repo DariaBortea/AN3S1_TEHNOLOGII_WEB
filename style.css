@@ -1,0 +1,17 @@
+#green{
+    color: rgb(65, 185, 65);
+}
+.red{
+    color: red;
+}
+.yellow{
+    color:yellow;
+}
+button{
+    background-color: brown;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: aliceblue;
+}
